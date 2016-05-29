@@ -1,0 +1,35 @@
+
+# Site settings
+title: pebblea2.github.io
+# email: your-email@domain.com
+description: > 
+  Ann Arbor Pebble Meetup
+baseurl: ""		# no trailing slash
+url: "http://pebblea2.github.io"	# no trailing slash
+excerpt_separator: <!--more—->
+
+about: > 
+  Meet up with Pebble developers and enthusiasts from Ann Arbor and the Metro Detroit area!
+footer: > 
+  PebbleA2
+twitter_username:    PebbleA2
+github_username:     PebbleA2
+#facebook_username:   TODO
+#linkedin_username:   TODO
+#google_username:     TODO
+#youtube_username:    ishotjrdotcom
+#instagram_username:  ishjr
+#reddit_username:     ishjr
+#tumblr_username:     ishotjr
+#lastfm_username:  	 ishotjrdotcom
+#soundcloud_username: ishjr
+#miiverse_username:   ishotjr
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+gems:
+- jemoji
