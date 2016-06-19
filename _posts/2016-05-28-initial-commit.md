@@ -11,7 +11,7 @@ Who am I?  You can call me [@ishotjr](https://github.com/ishotjr), or [@IshJr](h
 
 I've set an extremely tentative date and time for our initial meeting:  
 
-***7pm on Wednesday, June 29th, at [HopCat in Ann Arbor](http://hopcat.com/ann-arbor)***
+***6pm on Wednesday, June 29th, at [HopCat in Ann Arbor](http://hopcat.com/ann-arbor)***
 
 This is just an initial suggestion to be iterated upon - get in touch via [@PebbleA2](https://twitter.com/PebbleA2) with thoughts, suggestions, conflicts, etc. - there's still plenty of room for tweaks at this point! :bowtie: :thought_balloon: :calendar:  
 
